@@ -26,5 +26,5 @@ Top 10 Publishers: Hello Games, Valve, Slightly Mad Studious, Sony, Trion Worlds
 Not filtered data showed companies in the top, that were selling a lot in the past, but now they aren't. So the publisher sales got filtered by year to get the relevant information.
 
 ## Bonus question. Which game genres have more releases?
-The first question was about the profit of different genres, but the profit could be gained not only by selling more expensive items, but also by selling more items.
+The first question was about the profit of different genres, but the profit could be gained not only by selling more expensive items, but also by selling more items. To check if our top sellers sold more games we can count the games in each genre.
 
