@@ -1,6 +1,6 @@
 # Video Game Sales Analysis  
 
-What if we would plan to develop and release a video game? (The one that would give us not only a pleasure to work on, but some profit too) We would need to decide on many things first. Analysis of Video Game Sales could help us with that.
+Imagine we're planning to develop and launch a new video game — one that’s not only fun to create but also financially rewarding. To make informed decisions along the way, we’d need to consider a variety of factors. Analyzing historical video game sales data can provide valuable insights to guide our strategy.
 
 
 The dashboard below will answer these questions:
