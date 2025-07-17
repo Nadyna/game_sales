@@ -1,6 +1,6 @@
 # Video Game Sales Visualisation
 
-Imagine we're planning to develop and launch a new video game — one that’s not only fun to create but also financially rewarding. To make informed decisions along the way, we’d need to consider a variety of factors. Analyzing historical video game sales data can provide valuable insights to guide our strategy.
+As someone interested in video games, I wanted to explore market trends from the perspective of game developers aiming for a successful entry. I created and combined several visualizations to better understand key factors that contribute to a game's market performance.
 
 
 The dashboard below will answer these questions:
