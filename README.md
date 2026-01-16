@@ -1,4 +1,4 @@
-# Video Game Sales Visualisation
+# Video Game Sales Dashboard
 
 As someone interested in video games, I wanted to explore market trends from the perspective of game developers aiming for a successful entry. I created and combined several visualizations to better understand key factors that contribute to a game's market performance.
 
